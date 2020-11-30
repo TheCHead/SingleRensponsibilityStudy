@@ -12,20 +12,12 @@ namespace SingleResponsibilityStudy
         {
             StandardMessages.WelcomeMessage();
 
-            PersonDataCapture.Capture();
+            Person user = PersonDataCapture.Capture();
 
-            // Checks to be sure the first and last names are valid
+            bool isUserValid = PersonValidator.isValid(user);
 
-            if (string.IsNullOrWhiteSpace(user.FirstName))
+            if (!isUserValid)
             {
-                Console.WriteLine("You didn't enter valid first name. Please enter again: ");
-                StandardMessages.EndApplication();
-                return;
-            }
-
-            if (string.IsNullOrWhiteSpace(user.LastName))
-            {
-                Console.WriteLine("You didn't enter valid last name. Please enter again: ");
                 StandardMessages.EndApplication();
                 return;
             }

@@ -1,0 +1,7 @@
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\bin\Debug\SingleResponsibilityStudy.exe.config
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\bin\Debug\SingleResponsibilityStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\bin\Debug\SingleResponsibilityStudy.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\obj\Debug\SingleResponsibilityStudy.csprojAssemblyReference.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\obj\Debug\SingleResponsibilityStudy.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\obj\Debug\SingleResponsibilityStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\SingleResponsibilityStudy\SingleResponsibilityStudy\obj\Debug\SingleResponsibilityStudy.pdb
