@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountGenerator.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="PersonDataCapture.cs" />
     <Compile Include="PersonValidator.cs" />
