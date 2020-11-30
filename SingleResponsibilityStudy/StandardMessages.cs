@@ -18,5 +18,10 @@ namespace SingleResponsibilityStudy
         {
             Console.ReadLine();
         }
+
+        public static void DisplayValidationError(string fieldName)
+        {
+            Console.WriteLine($"You didn't enter valid {fieldName} name.");
+        }
     }
 }

@@ -16,13 +16,13 @@ namespace SingleResponsibilityStudy
 
             if (string.IsNullOrWhiteSpace(person.FirstName))
             {
-                Console.WriteLine("You didn't enter valid first name.");
+                StandardMessages.DisplayValidationError("First Name");
                 return false;
             }          
 
             if (string.IsNullOrWhiteSpace(person.LastName))
             {
-                Console.WriteLine("You didn't enter valid last name");
+                StandardMessages.DisplayValidationError("Last Name");
                 return false;
             }
             return true;
